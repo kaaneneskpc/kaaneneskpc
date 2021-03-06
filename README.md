@@ -6,7 +6,7 @@
 
 
 -🔭 I’m an Android Developer
-- 🌱 I’m currently learning Kotlin and Flutter 
+- 🌱 I’m currently learning Kotlin , Flutter and Angular 
 - 👯 I’m looking to collaborate with anyone with any project
 - ⚡ Fun fact: playing football and formula 1 series
 
