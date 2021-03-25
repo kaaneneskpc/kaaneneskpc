@@ -5,7 +5,7 @@
 ## [![Github](https://img.shields.io/github/followers/kaaneneskpc?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
 
--🔭 I’m an Android Developer
+-🔭 I’m an Android Developer (Ask me about Java,Kotlin or Flutter)
 - 🌱 I’m currently learning Kotlin and Flutter
 - 👯 I’m looking to collaborate with anyone with any project
 - ⚡ Fun fact: Playing Football and Formula 1 series
@@ -19,20 +19,9 @@
 </p>
 <br />
 
-## 🧰 Languages and Tools:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  
-  
-</p>
 
-## 💬 My Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaaneneskpc&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaaneneskpc&theme=tokyonight)
+
 
 
 
