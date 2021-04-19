@@ -36,7 +36,7 @@
 </p>
 <br />
 
-> Tools and Languages
+> Tools - Languages - Libraries
 
 <table>
   <tr>
@@ -56,7 +56,7 @@
       <a href="#kaaneneskpc-tech">
         <img src="./img/jetpack.png" width="48" height="48" alt="Jetpack" />
       </a>
-      <br>Android-Jetpack
+      <br>Jetpack
     </td>
     <td align="center" width="96">
       <a href="#kaaneneskpc-tech">
