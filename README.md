@@ -18,7 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kaaneneskpc&show_icons=true&count_private=true&include_all_commits=true" alt="kaaneneskpc" align="right" />
 </a>
 
--:office: &nbsp;I'm an **Android Developer**</br>
+-:office: &nbsp;I'm an **Android Developer** and Developers Group Organizer at <img src="https://github-readme-stats.vercel.app/api?username=kaaneneskpc&show_icons=true&count_private=true&include_all_commits=true" alt="google" </br>
 -:seedling: &nbsp;I’m currently learning **Kotlin** and **Flutter**</br>
 -:speech_balloon: &nbsp;Fun Fact : **Blockchain** and **Formula-1**</br>
 
