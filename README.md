@@ -19,7 +19,7 @@
 </a>
 
 -:office: &nbsp;I'm an **Android Developer** and Developers Group Organizer at <a href="#google-title">
-  <img src="./img/google.png" alt="kaaneneskpc" width="30"/>
+  <img src="./img/google.png" alt="kaaneneskpc" width="15"/>
 </a> </br>
 -:seedling: &nbsp;I’m currently learning **Kotlin** and **Flutter**</br>
 -:speech_balloon: &nbsp;Fun Fact : **Blockchain** and **Formula-1**</br>
