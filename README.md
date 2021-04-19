@@ -54,6 +54,12 @@
     </td>
     <td align="center" width="96">
       <a href="#kaaneneskpc-tech">
+        <img src="./img/jetpack.png" width="48" height="48" alt="Jetpack" />
+      </a>
+      <br>Android-Jetpack
+    </td>
+    <td align="center" width="96">
+      <a href="#kaaneneskpc-tech">
         <img src="./img/java.png" width="48" height="48" alt="Java" />
       </a>
       <br>Java
