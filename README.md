@@ -44,7 +44,7 @@
     </td>
     <td align="center" width="96">
       <a href="#kaaneneskpc-tech">
-        <img src="" width="48" height="48" alt="Java" />
+        <img src="./img/java.png" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
@@ -62,7 +62,7 @@
     </td>
         <td align="center" width="96"> 
       <a href="#kaaneneskpc-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="AngularJS" />
+        <img src="./img/angular.png" width="48" height="48" alt="AngularJS" />
       </a>
       <br>AngularJS
     </td>
