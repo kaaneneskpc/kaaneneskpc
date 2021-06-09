@@ -18,9 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kaaneneskpc&show_icons=true&count_private=true&include_all_commits=true" alt="kaaneneskpc" align="right" />
 </a>
 
--:office: &nbsp;I'm an **<a href="#android-title">
-  <img src="https://avatars.githubusercontent.com/u/32689599?s=200&v=4" alt="kaaneneskpc" width="15"/>
-</a> Developer** and Developers Group Organizer at <a href="#google-title">
+-:office: &nbsp;I'm an **Application Engineer** at **IBTECH** and Developers Group Organizer at <a href="#google-title">
   <img src="./img/google.png" alt="kaaneneskpc" width="15"/>
 </a> </br>
 -:seedling: &nbsp;I’m currently learning **Kotlin** and **Flutter**</br>
@@ -70,19 +68,7 @@
       </a>
       <br>Flutter
     </td>
-    <td align="center" width="96">
-      <a href="#kaaneneskpc-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="ReactJS" />
-      </a>
-      <br>ReactJS
-    </td>
-        <td align="center" width="96"> 
-      <a href="#kaaneneskpc-tech" >
-        <img src="./img/angular.png" width="48" height="48" alt="AngularJS" />
-      </a>
-      <br>AngularJS
-    </td>
-       
+    
   </tr>
 </table>
 
