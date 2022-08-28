@@ -18,7 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kaaneneskpc&show_icons=true&count_private=true&include_all_commits=true" alt="kaaneneskpc" align="right" />
 </a>
 
--:office: &nbsp;I'm an **Application Engineer** at **IBTECH** and Developers Group Organizer at <a href="#google-title">
+-:office: &nbsp;I'm an **Application Engineer** at **QNB Finansbank - IBTECH** and Developers Group Organizer at <a href="#google-title">
   <img src="./img/google.png" alt="kaaneneskpc" width="15"/>
 </a> </br>
 -:seedling: &nbsp;I’m currently learning **Kotlin** and **Flutter**</br>
