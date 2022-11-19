@@ -31,7 +31,7 @@
 [![Medium](https://img.shields.io/badge/Medium-@kaaneneskpc-9146FF?style=for-the-badge&logo=medium&logoColor=white&labelColor=101010)](https://medium.com/@kaaneneskpc)
 [![Email](https://img.shields.io/badge/kaaneneskpc1@gmail.com-my_personal_email-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:kaaneneskpc1@gmail.com)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaan-Enes-Kapıcı-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kaaneneskpc/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kaaneneskpc-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kaaneneskpc/)
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@rodrigomartind-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/RodrigoMartinD)
 </br>
