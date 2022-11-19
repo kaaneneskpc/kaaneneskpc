@@ -18,8 +18,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kaaneneskpc&show_icons=true&count_private=true&include_all_commits=true" alt="kaaneneskpc" align="right" />
 </a>
 
--:office: &nbsp;I'm an **Application Engineer** at **QNB Finansbank - IBTECH** and Developers Group Organizer at <a href="#google-title">
-  <img src="./img/google.png" alt="kaaneneskpc" width="15"/>
+-:office: &nbsp;I'm an **Application Engineer** at **QNB Finansbank - IBTECH** and and Co-Founder **TALENT4YOU** and Developers Group Organizer at <a href="#google-title">
+  <img src="./img/google.png" alt="kaaneneskpc" width="15"/> 
 </a> </br>
 -:seedling: &nbsp;I’m currently learning **Kotlin** and **Flutter**</br>
 -:speech_balloon: &nbsp;Fun Fact : **Blockchain** and **Formula-1**</br>
@@ -29,23 +29,18 @@
 
 
 [![Medium](https://img.shields.io/badge/Medium-@kaaneneskpc-9146FF?style=for-the-badge&logo=medium&logoColor=white&labelColor=101010)](https://medium.com/@kaaneneskpc)
-[![Email](https://img.shields.io/badge/kaaneneskpc1@gmail.com-my_personal_email-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:kaaneneskpc1@gmail.com)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kaaneneskpc-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kaaneneskpc/)
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@kaaneneskpc-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/kaaneneskpc)
 </br>
-[![Instagram](https://img.shields.io/badge/Instagram-@rodrigomartind-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/rodrigomartind)
+[![Instagram](https://img.shields.io/badge/Instagram-@kaaneneskpc-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/kaaneneskpc)
 </br>
 
 
 ## Contact me:
 
-
- <a href="https://linkedin.com/in/kaaneneskpc" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:kaaneneskpc1@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://medium.com/@kaaneneskpc" target="_blank" rel="noopener noreferrer"> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEv0xgEe3MJ2w/company-logo_200_200/0/1602698792035?e=2159024400&v=beta&t=Wm8Ot9y3NUE2ykeQeTOBZXGIFwR2dullMAVyZbCbJ4Q" alt="Medium" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
+[![Email](https://img.shields.io/badge/kaaneneskpc1@gmail.com-my_personal_email-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:kaaneneskpc1@gmail.com)
 <br />
 
 > Tools - Languages - Libraries
