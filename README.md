@@ -27,7 +27,13 @@
 
 ## ✉️ Find me on:
 
-<p align="center">
+
+[![Medium](https://img.shields.io/badge/Medium-@kaaneneskpc-9146FF?style=for-the-badge&logo=medium&logoColor=white&labelColor=101010)](https://medium.com/@kaaneneskpc)
+
+
+## Contact me:
+[![Email](https://img.shields.io/badge/rodrigomartind@gmail.com-my_personal_email-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rodrigomartind@gmail.com)
+
  <a href="https://linkedin.com/in/kaaneneskpc" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:kaaneneskpc1@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="https://medium.com/@kaaneneskpc" target="_blank" rel="noopener noreferrer"> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEv0xgEe3MJ2w/company-logo_200_200/0/1602698792035?e=2159024400&v=beta&t=Wm8Ot9y3NUE2ykeQeTOBZXGIFwR2dullMAVyZbCbJ4Q" alt="Medium" height="40" style="vertical-align:top; margin:4px"></a>
