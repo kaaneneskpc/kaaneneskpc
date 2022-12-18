@@ -1,10 +1,17 @@
 <h1 align="left" id="kaaneneskpc-title">:wave: Hello there! I'm Kaan Enes KAPICI</h1>
 
--:office: &nbsp;I'm an **Application Engineer** at **QNB Finansbank - IBTECH** and and Co-Founder **TALENT4YOU** and Developers Group Organizer at <a href="#google-title">
-  <img src="./img/google.png" alt="kaaneneskpc" width="15"/> 
-</a> </br>
--:seedling: &nbsp;I’m currently learning **Kotlin** and **Flutter**</br>
--:speech_balloon: &nbsp;Fun Fact : **Blockchain** and **Formula-1**</br>
+## Resume
+I'm a Android Developer with more than five years of experience.</br>
+In 2018 I created my first screen that showed a Text in TextView 😛.</br>
+In 2019 I started my first work as Android Developer 🎮.</br>
+In 2020 I joined to Google as Developer Lead [Google](https://communityleads.dev/home/ls/profile/kaaneneskpc)</br>
+In 2021 I I attended the Google Devfest as a speaker for the first time [Google](https://developers.google.com/community/devfest).</br>
+
+## Present
+- 🔭 I’m currently working as Application (Android) Engineer @ [QNB Finansbank](https://www.qnbfinansbank.com/)
+- 🌱 I’m currently learning to new technologies ⛏, entrepreneurship fundamentals and edTech development.
+- 💬 Ask me about Formula 1, Breaking Bad, Android Development, and something of Jetpack Compose 🚀
+- Sebastian Vettel 🇩🇪 #5
 
 ## Skills: 
 
