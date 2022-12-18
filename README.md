@@ -6,14 +6,14 @@ In 2018 I created my first screen that showed a Text in TextView 😛.</br>
 In 2019 I started my first work (Intern) as Android Developer 🎮.</br>
 In 2020 I joined to Google as Developer Lead [Google](https://communityleads.dev/home/ls/profile/kaaneneskpc)</br>
 In 2021 I attended the Google Devfest as a speaker for the first time [Google](https://developers.google.com/community/devfest).</br>
-In 2021 I started my first full-time work as Application (Android) Engineer @ [QNB Finansbank](https://www.qnbfinansbank.com/).</br>
-In 2022 I Co-Founded @ [Talent4You](https://www.linkedin.com/company/talentforyouconnectfuture/). It's called Talent Management Software for K-12.</br>
-In 2022 I joined @ [BTM Istanbul](https://btm.istanbul/) as Entrepreneur
+In 2021 I started my first full-time work as Application (Android) Engineer [QNB Finansbank](https://www.qnbfinansbank.com/).</br>
+In 2022 I Co-Founded [Talent4You](https://www.linkedin.com/company/talentforyouconnectfuture/). It's called Talent Management Software for K-12.</br>
+In 2022 I joined [BTM Istanbul](https://btm.istanbul/) as Entrepreneur and we are currently in the pre-incubation program as Talent4You team.
 
 ## Present
-- 🔭 I’m currently working as Application (Android) Engineer @ [QNB Finansbank](https://www.qnbfinansbank.com/)
-- 🔭I’m currently working as Co-Founder @ [Talent4You](https://www.linkedin.com/company/talentforyouconnectfuture/)
-- 🔭I’m currently working as Entrepreneur @ [BTM Istanbul](https://btm.istanbul/)
+- 🔭 I’m currently working as Application (Android) Engineer [QNB Finansbank](https://www.qnbfinansbank.com/)
+- 🔭I’m currently working as Co-Founder [Talent4You](https://www.linkedin.com/company/talentforyouconnectfuture/)
+- 🔭I’m currently working as Entrepreneur [BTM Istanbul](https://btm.istanbul/)
 - 🌱 I’m currently learning to new technologies about Software, Personel-Improvement, finTech develpoment, entrepreneurship fundamentals and edTech development.⛏
 - 💬 Ask me about Formula 1, Breaking Bad, Android Development, and something of Jetpack Compose 🚀
 - Sebastian Vettel 🇩🇪 #5
