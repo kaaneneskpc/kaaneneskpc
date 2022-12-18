@@ -42,6 +42,9 @@
 [![Email](https://img.shields.io/badge/kaaneneskpc1@gmail.com-my_personal_email-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:kaaneneskpc1@gmail.com)
 <br />
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kaaneneskpc" alt="kaaneneskpc" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kaaneneskpc&show_icons=true" alt="kaaneneskpc" /></p>
+
 
 
 
