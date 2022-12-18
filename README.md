@@ -1,19 +1,4 @@
 <h1 align="left" id="kaaneneskpc-title">:wave: Hello there! I'm Kaan Enes KAPICI</h1>
-<p align="left">
-  <a href="https://stackoverflow.com/users/9420596">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/14236733?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="">
-    <img alt="Reddit User Karma" src="https://visitor-badge.laobi.icu/badge?page_id=kaaneneskpc.kaaneneskpc">
-  </a>
-  <a href="https://github.com/kaaneneskpc?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/kaaneneskpc?color=green&logo=github">
-  </a>
-</p>
-
-<a href="#kaaneneskpc-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaaneneskpc&show_icons=true&count_private=true&include_all_commits=true" alt="kaaneneskpc" align="right" />
-</a>
 
 -:office: &nbsp;I'm an **Application Engineer** at **QNB Finansbank - IBTECH** and and Co-Founder **TALENT4YOU** and Developers Group Organizer at <a href="#google-title">
   <img src="./img/google.png" alt="kaaneneskpc" width="15"/> 
