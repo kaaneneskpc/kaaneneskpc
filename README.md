@@ -60,43 +60,6 @@
 [![Email](https://img.shields.io/badge/kaaneneskpc1@gmail.com-my_personal_email-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:kaaneneskpc1@gmail.com)
 <br />
 
-> Tools - Languages - Libraries
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#kaaneneskpc-tech">
-        <img src="https://avatars.githubusercontent.com/u/32689599?s=200&v=4" width="48" height="48" alt="Android" />
-      </a>
-      <br>Android
-    </td>
-    <td align="center" width="96">
-      <a href="#kaaneneskpc-tech">
-        <img src="https://avatars.githubusercontent.com/u/1446536?s=200&v=4" width="48" height="48" alt="Kotlin" />
-      </a>
-      <br>Kotlin
-    </td>
-    <td align="center" width="96">
-      <a href="#kaaneneskpc-tech">
-        <img src="./img/jetpack.png" width="48" height="48" alt="Jetpack" />
-      </a>
-      <br>Jetpack
-    </td>
-    <td align="center" width="96">
-      <a href="#kaaneneskpc-tech">
-        <img src="./img/java.png" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#kaaneneskpc-tech">
-        <img src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" width="48" height="48" alt="Flutter" />
-      </a>
-      <br>Flutter
-    </td>
-    
-  </tr>
-</table>
 
 
 
