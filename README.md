@@ -37,7 +37,8 @@
 [![U+2665 Google](https://img.shields.io/badge/❤️_Google-EC1C24?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)]()
 </br>
 [![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white&labelColor=101010)]()
-[![Bugsnag](https://img.shields.io/badge/Bugsnag-4949E4?style=for-the-badge&logo=bugsnag&logoColor=white&labelColor=101010)]()
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+
 </br>
 
 
