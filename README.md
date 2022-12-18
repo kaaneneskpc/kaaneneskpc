@@ -15,7 +15,7 @@ In 2022 I joined [BTM Istanbul](https://btm.istanbul/) as Entrepreneur and we ar
 - 🔭I’m currently working as Co-Founder [Talent4You](https://www.linkedin.com/company/talentforyouconnectfuture/)
 - 🔭I’m currently working as Entrepreneur [BTM Istanbul](https://btm.istanbul/)
 - 🌱 I’m currently learning to new technologies about Software, Personel-Improvement, finTech develpoment, entrepreneurship fundamentals and edTech development.⛏
-- 💬 Ask me about Formula 1, Breaking Bad, Android Development, and something of Jetpack Compose 🚀
+- 💬 Ask me about Formula 1, Breaking Bad, Shameless, Football, Android Development, and something of Jetpack Compose 🚀
 - Sebastian Vettel 🇩🇪 #5
 
 ## Skills: 
