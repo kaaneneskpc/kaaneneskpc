@@ -1,8 +1,5 @@
 <h1 align="left" id="kaaneneskpc-title">:wave: Hello there! I'm Kaan Enes KAPICI</h1>
 <p align="left">
-  <a href="https://github.com/kaaneneskpc/">
-    <img src="https://komarev.com/ghpvc/?username=kaaneneskpc" alt="page views" />
-  </a>
   <a href="https://stackoverflow.com/users/9420596">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/14236733?color=orange&label=reputation&logo=stackoverflow">
   </a>
