@@ -7,7 +7,8 @@ In 2019 I started my first work (Intern) as Android Developer 🎮.</br>
 In 2020 I joined to Google as Developer Lead [Google](https://communityleads.dev/home/ls/profile/kaaneneskpc)</br>
 In 2021 I attended the Google Devfest as a speaker for the first time [Google](https://developers.google.com/community/devfest).</br>
 In 2021 I started my first full-time work as Application (Android) Engineer @ [QNB Finansbank](https://www.qnbfinansbank.com/).</br>
-In 2022 I Co-Founded @ [Talent4You](https://www.linkedin.com/company/talentforyouconnectfuture/). It's called Talent Management Software for K-12.
+In 2022 I Co-Founded @ [Talent4You](https://www.linkedin.com/company/talentforyouconnectfuture/). It's called Talent Management Software for K-12.</br>
+In 2022 I joined @ [BTM Istanbul](https://btm.istanbul/) as Entrepreneur
 
 ## Present
 - 🔭 I’m currently working as Application (Android) Engineer @ [QNB Finansbank](https://www.qnbfinansbank.com/)
