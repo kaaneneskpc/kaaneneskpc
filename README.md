@@ -32,7 +32,7 @@ In 2022 I joined [BTM Istanbul](https://btm.istanbul/) as Entrepreneur and we ar
 </br>
 [![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white&labelColor=101010)]()
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+[![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=101010)]()
 
 </br>
 
