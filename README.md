@@ -22,7 +22,7 @@ telecommunication development, entrepreneurship fundamentals and edTech developm
 ## Statistics
 <div align="center">
     
-[![](https://raw.githubusercontent.com/kaaneneskpc/kaaneneskpc-profile/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=monokai)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={kaaneneskpc}&theme={monokai})](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=monokai)
 [![](https://raw.githubusercontent.com/kaaneneskpc/kaaneneskpc-profile/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=monokai) [![](https://raw.githubusercontent.com/kaaneneskpc/kaaneneskpc-profile/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=monokai)
 [![](https://raw.githubusercontent.com/kaaneneskpc/kaaneneskpc-profile/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=monokai) [![](https://raw.githubusercontent.com/kaaneneskpc/kaaneneskpc-profile/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=monokai)
 <p align="center">
