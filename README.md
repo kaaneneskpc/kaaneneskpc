@@ -19,6 +19,20 @@ telecommunication development, entrepreneurship fundamentals and edTech developm
 - 💬 Ask me about Formula 1, Breaking Bad, Shameless, Football, Android Development, and something of Jetpack Compose 🚀
 - Sebastian Vettel 🇩🇪 #5
 
+## Statistics
+<div align="center">
+    
+[![](https://raw.githubusercontent.com/kaaneneskpc/kaaneneskpc-profile/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=monokai)
+[![](https://raw.githubusercontent.com/kaaneneskpc/kaaneneskpc-profile/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=monokai) [![](https://raw.githubusercontent.com/kaaneneskpc/kaaneneskpc-profile/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=monokai)
+[![](https://raw.githubusercontent.com/kaaneneskpc/kaaneneskpc-profile/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=monokai) [![](https://raw.githubusercontent.com/kaaneneskpc/kaaneneskpc-profile/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=monokai)
+<p align="center">
+    
+  ![](https://komarev.com/ghpvc/?username=kaaneneskpc&style=for-the-badge)
+    
+  </div>
+</p>
+</p>
+
 ## Skills: 
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
@@ -55,9 +69,6 @@ telecommunication development, entrepreneurship fundamentals and edTech developm
 
 [![Email](https://img.shields.io/badge/kaaneneskpc1@gmail.com-my_personal_email-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:kaaneneskpc1@gmail.com)
 <br />
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kaaneneskpc" alt="kaaneneskpc" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kaaneneskpc&show_icons=true" alt="kaaneneskpc" /></p>
 
 
 
