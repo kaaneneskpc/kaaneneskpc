@@ -21,10 +21,8 @@ telecommunication development, entrepreneurship fundamentals and edTech developm
 
 ## Statistics
 <div align="center">
-    
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kaaneneskpc" alt="kaaneneskpc" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kaaneneskpc&show_icons=true" alt="kaaneneskpc" /></p>
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kaaneneskpc&show_icons=true" alt="kaaneneskpc" />
     
   ![](https://komarev.com/ghpvc/?username=kaaneneskpc&style=for-the-badge)
     
