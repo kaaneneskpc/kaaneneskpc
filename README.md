@@ -11,7 +11,6 @@ In 2023 I started to [Innova/Turk Telekom](https://www.innova.com.tr/tr) as Sofw
 
 ## Present
 - 🔭 I worked as an Application (Android) Engineer at [QNB Finansbank] between 2021 - 2023(https://www.qnbfinansbank.com/)
-- 🔭I’m currently working as Co-Founder [Talent4You](https://www.linkedin.com/company/talentforyouconnectfuture/)
 - 🔭I’m currently working as Sofware Engineer Specialist [Innova/Turk Telekom](https://www.innova.com.tr/tr)
 - 🌱 I’m currently learning to new technologies about Software, Personel-Improvement, finTech develpoment, 
 telecommunication development, entrepreneurship fundamentals and edTech development.⛏
