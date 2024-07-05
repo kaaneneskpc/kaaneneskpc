@@ -17,17 +17,6 @@ telecommunication development, entrepreneurship fundamentals and edTech developm
 - 💬 Ask me about Formula 1, Breaking Bad, Shameless, Football, Android Development, and something of Jetpack Compose 🚀
 - Sebastian Vettel 🇩🇪 #5
 
-## Statistics
-<div align="center">
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kaaneneskpc&show_icons=true" alt="kaaneneskpc" />
-    
-  ![](https://komarev.com/ghpvc/?username=kaaneneskpc&style=for-the-badge)
-    
-  </div>
-</p>
-</p>
-
 ## Skills: 
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
