@@ -1,4 +1,4 @@
-<h1 align="left" id="kaaneneskpc-title"> :wave: Hello there! I'm Kaan Enes KAPICI  <img  src="https://github.com/kaaneneskpc/kaaneneskpc/assets/32849662/1c5f428a-743d-466b-b12b-e887ea3522c3" alt="Android Engineer" /></h1>
+<h1 align="left" id="kaaneneskpc-title"> :wave: Hello there! I'm Kaan Enes KAPICI  <img  src="https://github.com/kaaneneskpc/kaaneneskpc/assets/32849662/3279452f-7221-462e-b4c9-48ba48f45dca" alt="Android Engineer" /></h1>
 
 <div align=center>
   <img height="350" width="450" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Android Engineer" />
@@ -6,6 +6,7 @@
 <div align=center>
   <img src="https://github.com/kaaneneskpc/kaaneneskpc/assets/32849662/c748a8f1-2a53-4870-b9fa-ea230834a237" alt="Android Engineer" />
 </div>
+
 
 <br/>
 
