@@ -13,7 +13,6 @@
 </p>
 
 <br/>
-<br/>
 
 ## Resume
 I'm a Android Developer with more than five years of experience.</br>
