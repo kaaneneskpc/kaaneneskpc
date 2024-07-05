@@ -28,7 +28,7 @@ In 2021 I started my first full-time work as Application (Android) Engineer [QNB
 In 2023 I started to [Innova/Turk Telekom](https://www.innova.com.tr/tr) as Sofware Engineer Specialist
 
 ## Present
-- 🔭 I worked as an Application (Android) Engineer at [QNB Finansbank] between 2021 - 2023([https://www.qnbfinansbank.com/](https://www.qnbfinansbank.com/))
+- 🔭 I worked as an Application (Android) Engineer at [QNB Finansbank] between 2021 - 2023([QNB Finansbank/IBTECH](https://www.qnbfinansbank.com/))
 - 🔭I’m currently working as Sofware Engineer Specialist [Innova/Turk Telekom](https://www.innova.com.tr/tr)
 - 🌱 I’m currently learning to new technologies about Software, Personel-Improvement, finTech develpoment, 
 telecommunication development, entrepreneurship fundamentals and edTech development.⛏
