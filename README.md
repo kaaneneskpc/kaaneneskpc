@@ -5,10 +5,12 @@
 </div>
 
 <div align=center>
-  <img height="350" width="450" src="https://github.com/kaaneneskpc/kaaneneskpc/assets/32849662/32b7de56-9910-4e2f-9c7a-3a22217d496a" alt="Headline" />
+  <img height="350" width="450" src="https://github.com/kaaneneskpc/kaaneneskpc/assets/32849662/8dca810e-1bb6-4150-a686-eeecfec38144" alt="Headline" />
 </div>
 
 <br/>
+
+
 
 
 <p align="center">
