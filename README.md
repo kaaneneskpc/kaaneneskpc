@@ -4,12 +4,9 @@
   <img src="https://github.com/kaaneneskpc/kaaneneskpc/assets/32849662/c748a8f1-2a53-4870-b9fa-ea230834a237" alt="Android Engineer" />
 </div>
 
-
 <br/>
 
- <img align="right" height="350" width="450" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Android Engineer" />
-
-<p align="left">
+<p align="center">
   <a href="mailto:kaaneneskpc1@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/kaaneneskpc/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://twitter.com/kaaneneskpc"><img src="https://img.icons8.com/bubbles/75/000000/twitter-circled.png" alt="Twitter"/></a>
@@ -19,7 +16,9 @@
 
 <br/>
 
-## Resume
+<img align="right" height="350" width="450" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Android Engineer" />
+
+<h3 align="left"> Resume </h3>
 I'm a Android Developer with more than five years of experience.</br>
 In 2018 I created my first screen that showed a Text in TextView 😛.</br>
 In 2019 I started my first work (Intern) as Android Developer 🎮.</br>
