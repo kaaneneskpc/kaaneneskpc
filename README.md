@@ -1,7 +1,7 @@
-<h1 align="left" id="kaaneneskpc-title">:wave: Hello there! I'm Kaan Enes KAPICI </h1>
+<h1 align="left" id="kaaneneskpc-title"> <img src="https://github.com/kaaneneskpc/kaaneneskpc/assets/32849662/1f71072e-6982-4afd-a277-8d9739651d14" alt="Icon" class="title-icon"> :wave: Hello there! I'm Kaan Enes KAPICI </h1>
 
 <div align=center>
-  <img height="350" width="450" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Headline" />
+  <img height="350" width="450" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Android Engineer" />
 </div>
 
 <br/>
