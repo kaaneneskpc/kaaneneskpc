@@ -35,19 +35,41 @@ telecommunication development, entrepreneurship fundamentals and edTech developm
 
 ## Skills: 
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-</br>
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google%20play&logoColor=white&labelColor=101010)]()
-[![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google%20maps&logoColor=white&labelColor=101010)]()
-[![U+2665 Google](https://img.shields.io/badge/❤️_Google-EC1C24?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)]()
-</br>
-[![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white&labelColor=101010)]()
-[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+<ul>
+        <li>
+            <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010" alt="Android">
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010" alt="Kotlin">
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010" alt="Android Studio">
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010" alt="Java">
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010" alt="Firebase">
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google%20play&logoColor=white&labelColor=101010" alt="Google Play">
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google%20maps&logoColor=white&labelColor=101010" alt="Google Maps">
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/❤️_Google-EC1C24?style=for-the-badge&logo=google&logoColor=white&labelColor=101010" alt="❤️ Google">
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white&labelColor=101010" alt="Google Analytics">
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010" alt="Jetpack Compose">
+        </li>
+        <li>
+            <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010" alt="Swift">
+        </li>
+    </ul>
 
 </br>
 
