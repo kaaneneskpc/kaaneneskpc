@@ -5,7 +5,7 @@
 </div>
 
 <div align=center>
-  <img height="350" width="450" src="https://github.com/kaaneneskpc/kaaneneskpc/assets/32849662/c748a8f1-2a53-4870-b9fa-ea230834a237" alt="Android Engineer" />
+  <img src="https://github.com/kaaneneskpc/kaaneneskpc/assets/32849662/c748a8f1-2a53-4870-b9fa-ea230834a237" alt="Android Engineer" />
 </div>
 
 <br/>
