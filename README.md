@@ -3,7 +3,7 @@
 <div align=center>
   <img height="350" width="450" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Android Engineer" />
 </div>
-<div align=center>
+<div align=left>
   <img src="https://github.com/kaaneneskpc/kaaneneskpc/assets/32849662/c748a8f1-2a53-4870-b9fa-ea230834a237" alt="Android Engineer" />
 </div>
 
