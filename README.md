@@ -1,5 +1,20 @@
 <h1 align="left" id="kaaneneskpc-title">:wave: Hello there! I'm Kaan Enes KAPICI</h1>
 
+<div align=center>
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=30DC72&center=true&vCenter=true&width=800&height=100&lines=I'm+an+Android+Developer;I'm+an+Android+Speaker;I'm+an+Android+Instructor" alt="Headline" />
+</div>
+
+<p align="center">
+  <a href="mailto:kaaneneskpc1@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/kaaneneskpc/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/kaaneneskpc"><img src="https://img.icons8.com/bubbles/75/000000/twitter-circled.png" alt="Twitter"/></a>
+  <a href="https://medium.com/@kaaneneskpc"><img src="https://img.icons8.com/bubbles/75/000000/medium-new.png" alt="Medium"/></a>
+  <a href="https://www.instagram.com/kaaneneskpc/"><img src="https://img.icons8.com/bubbles/75/000000/instagram-new--v2.png" alt="Instagram"/></a>
+</p>
+
+<br/>
+<br/>
+
 ## Resume
 I'm a Android Developer with more than five years of experience.</br>
 In 2018 I created my first screen that showed a Text in TextView 😛.</br>
@@ -36,23 +51,6 @@ telecommunication development, entrepreneurship fundamentals and edTech developm
 </br>
 
 
-## ✉️ Find me on:
-
-
-[![Medium](https://img.shields.io/badge/Medium-@kaaneneskpc-9146FF?style=for-the-badge&logo=medium&logoColor=white&labelColor=101010)](https://medium.com/@kaaneneskpc)
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kaaneneskpc-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kaaneneskpc/)
-</br>
-[![Twitter](https://img.shields.io/badge/Twitter-@kaaneneskpc-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/kaaneneskpc)
-</br>
-[![Instagram](https://img.shields.io/badge/Instagram-@kaaneneskpc-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/kaaneneskpc)
-</br>
-
-
-## Contact me:
-
-[![Email](https://img.shields.io/badge/kaaneneskpc1@gmail.com-my_personal_email-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:kaaneneskpc1@gmail.com)
-<br />
 
 
 
