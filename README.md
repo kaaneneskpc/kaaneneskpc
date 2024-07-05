@@ -16,7 +16,7 @@
 
 <br/>
 
-<img align="right" height="350" width="450" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Android Engineer" />
+<img align="right" height="250" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Android Engineer" />
 
 <h3 align="left"> Resume </h3>
 I'm a Android Developer with more than five years of experience.</br>
@@ -27,7 +27,7 @@ In 2021 I attended the Google Devfest as a speaker for the first time [Google](h
 In 2021 I started my first full-time work as Application (Android) Engineer [QNB Finansbank](https://www.qnbfinansbank.com/).</br>
 In 2023 I started to [Innova/Turk Telekom](https://www.innova.com.tr/tr) as Sofware Engineer Specialist
 
-## Present
+<h3 align="left"> Present </h3>
 - 🔭 I worked as an Application (Android) Engineer at [QNB Finansbank] between 2021 - 2023(https://www.qnbfinansbank.com/)
 - 🔭I’m currently working as Sofware Engineer Specialist [Innova/Turk Telekom](https://www.innova.com.tr/tr)
 - 🌱 I’m currently learning to new technologies about Software, Personel-Improvement, finTech develpoment, 
