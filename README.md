@@ -1,8 +1,11 @@
 <h1 align="left" id="kaaneneskpc-title">:wave: Hello there! I'm Kaan Enes KAPICI </h1>
 
 <div align=center>
-  <img height="350" width="450"src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Headline" />
-  <img height="350 width="450" src="https://giphy.com/embed/llarwdtFqG63IlqUR1" alt="headline" />
+  <img height="350" width="450" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Headline" />
+</div>
+
+<div align=center>
+  <img height="350" width="450" src="https://giphy.com/embed/llarwdtFqG63IlqUR1" alt="Headline" />
 </div>
 
 <br/>
