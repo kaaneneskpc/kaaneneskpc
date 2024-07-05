@@ -1,5 +1,4 @@
 <h1 align="left" id="kaaneneskpc-title">:wave: Hello there! I'm Kaan Enes KAPICI </h1>
-<h1 align="left" id="kaaneneskpc-job"> I'm an Android Engineer & Speaker </h1>
 
 <div align=center>
   <img height="350" width="450"src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Headline" />
