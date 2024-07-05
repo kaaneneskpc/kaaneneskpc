@@ -46,9 +46,6 @@ telecommunication development, entrepreneurship fundamentals and edTech developm
             <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010" alt="Android Studio">
         </li>
         <li>
-            <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010" alt="Java">
-        </li>
-        <li>
             <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010" alt="Firebase">
         </li>
         <li>
