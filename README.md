@@ -28,8 +28,8 @@
 - In 2023 I started to [Innova/Turk Telekom](https://www.innova.com.tr/tr) as Sofware Engineer Specialist
 
 ## Present
+- 🔭I’m currently working as Senior Mobile App Engineer Specialist [Innova/Turk Telekom](https://www.innova.com.tr/tr)
 - 🔭 I worked as an Application (Android) Engineer at [QNB Finansbank/IBTECH](https://www.qnbfinansbank.com/) between 2021 - 2023
-- 🔭I’m currently working as Sofware Engineer Specialist [Innova/Turk Telekom](https://www.innova.com.tr/tr)
 - 🌱 I’m currently learning to new technologies about Software, Personel-Improvement, finTech develpoment, 
 telecommunication development, entrepreneurship fundamentals and edTech development.⛏
 - 💬 Ask me about Formula 1, Breaking Bad, Shameless, Football, Android Development, and something of Jetpack Compose 🚀
