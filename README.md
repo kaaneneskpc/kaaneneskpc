@@ -25,7 +25,7 @@
 - In 2020 I joined to Google as Developer Lead [Google](https://communityleads.dev/home/ls/profile/kaaneneskpc)</br>
 - In 2021 I attended the Google Devfest as a speaker for the first time [Google](https://developers.google.com/community/devfest).</br>
 - In 2021 I started my first full-time work as Application (Android) Engineer [QNB Finansbank](https://www.qnbfinansbank.com/).</br>
-- In 2023 I started to [Innova/Turk Telekom](https://www.innova.com.tr/tr) as Sofware Engineer Specialist
+- In 2023 I started to [Innova/Turk Telekom](https://www.innova.com.tr/tr) as Mobile App Engineer Specialist
 
 ## Present
 - 🔭I’m currently working as Senior Mobile App Engineer Specialist [Innova/Turk Telekom](https://www.innova.com.tr/tr)
